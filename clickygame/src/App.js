@@ -60,7 +60,7 @@ class App extends Component {
           score={this.state.score}
           hiScore={this.state.hiScore}
         />
-        <Title subtitle="Click on an image to earn points, but don't click on any more than once!">Clicky Cat Game</Title>
+        <Title subtitle="Click on a cat image to earn points, but don't click on any more than once!">Clicky Cat Game</Title>
         {this.state.cats.map(cats => (
           <Card
             handleClick={this.handleClick}

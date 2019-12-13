@@ -1,12 +1,12 @@
 # clickygame
-A purrfect Black & White cat game called "ClickyCat" where you can click on cat cards to build your memory.
+A purrfect Black & White cat game called "Clicky Cat" where you can click on cat cards to build your memory.
 
 # Overview
 ClickyCat is a memory game with React. This app requires the UI to be broken into components, managed component states, and user event responses.
 
 # Deployment
-* GitHub Pages Link
-* GitHub Repository
+* GitHub Pages Link  https://cchin1.github.io/clickygame/
+* GitHub Repository  https://github.com/cchin1/clickygame
 
 # Technologies Utilized
 * React
@@ -28,7 +28,7 @@ ClickyCat is a memory game with React. This app requires the UI to be broken int
 * When complete, the application should be deployed to Github Pages. See the README generated with Create React App for instructions on deploying the application to Github Pages.
 
 # How to Install and Run
-* git clone https://github.com/xxxxxxxxxxx
+* git clone https://github.com/cchin1/clickygame
 * cd into the react-clicky-game (pwd or ls to check yourself)
 * Run yarn install to get all dependencies
 * Run yarn start (in bash/powershell)
