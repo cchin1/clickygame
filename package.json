@@ -4,7 +4,13 @@
   "description": "# Overview For this assignment, you'll create a memory game with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+ 
   },
   "repository": {
     "type": "git",
@@ -15,5 +21,5 @@
   "bugs": {
     "url": "https://github.com/cchin1/clickygame/issues"
   },
-  "homepage": "https://github.com/cchin1/clickygame#readme"
+  "homepage": "https://cchin1.github.io/clickygame/"
 }
