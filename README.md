@@ -1,4 +1,5 @@
 # clickygame
+A purrfect Black & White cat game called "ClickyCat" where you can click on cat cards to build your memory.
 
 # Overview
 ClickyCat is a memory game with React. This app requires the UI to be broken into components, managed component states, and user event responses.
@@ -16,7 +17,6 @@ ClickyCat is a memory game with React. This app requires the UI to be broken int
 * Bootstrap 4
 * CSS3
 * Google Fonts
-* heroku
 * VSCode
 
 # Instructions
