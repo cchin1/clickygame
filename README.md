@@ -1,7 +1,7 @@
 # clickygame
 
 # Overview
-For this assignment, you'll create a memory game with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+ClickyCat is a memory game with React. This app requires the UI to be broken into components, managed component states, and user event responses.
 
 # Deployment
 * GitHub Pages Link
@@ -35,7 +35,7 @@ For this assignment, you'll create a memory game with React. This assignment wil
 * Go to localhost:3000 in your web browser (chrome)
 
 # How to Play
-* Click on any painting that you desire
-* The paintings will all reshuffle themselves
-* Click on another painting, but REMEMBER that you can only click on a painting once
-* Keep going to see if you can get all 24
+* Click on any black and white kitty that you desire
+* The kitties will all reshuffle themselves
+* Click on another kitty card, but REMEMBER that you can only click on a kitty once
+* Keep going to see if you can get all 12.
