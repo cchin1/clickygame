@@ -7,7 +7,8 @@
 /coverage
 
 # production
-/build
+# NO - I want to serve this as a static website on github pages
+# /build
 
 # misc
 .DS_Store
