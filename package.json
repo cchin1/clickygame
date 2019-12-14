@@ -16,7 +16,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "postbuild": "cp -r build docs",
+    "postbuild": "rm -rf docs && cp -r build docs",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
