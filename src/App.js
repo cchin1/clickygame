@@ -56,7 +56,7 @@ class App extends Component {
     return (
       <Wrapper>
         <Nav
-          brand="Clicky Cat Game"
+          brand="Clicky Cat Game!!"
           message={this.state.message}
           score={this.state.score}
           hiScore={this.state.hiScore}
